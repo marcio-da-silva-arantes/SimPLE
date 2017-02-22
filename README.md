@@ -1,5 +1,5 @@
  
- ### Format for Message Exchange
+### Format for Message Exchange
  
  To read any information from global memory the childs needs print and 
  read the following informations on standard output/input:
