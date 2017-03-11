@@ -43,4 +43,4 @@
 ### Getting Started
  TODO...
 
-[LINK](Teste)
+[LINK](Teste.md)
